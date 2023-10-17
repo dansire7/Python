@@ -20,3 +20,14 @@
 
 7.  After installation, we have come to VScode and update the environment as python12 and kernel as python12 for notebook.
 
+8.  Notebook does not verify the variable type however the .py format identify and generate error if value is not same type. further pythond does not analyze to itself the type of variable you have to mention it every time.
+
+10. In order to check the error in code you can type "mypy class1.py" and this will show all errors in codes.
+
+11. Data types
+    str : "Ali"
+    Int : 12
+    float : 10.6
+    bool : True or False
+    list [str]: ["ali", "saleem", "shahbaz"] string will be default type you cannot update any other type in it.
+    
