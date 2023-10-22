@@ -1,3 +1,5 @@
+* class 1 : https://www.youtube.com/watch?v=rwDHhx76MMg
+
 1.  In this classs we have we have downloaded and installed anaconda
     link: https://www.anaconda.com/download
 

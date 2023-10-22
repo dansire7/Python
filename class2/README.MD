@@ -1,3 +1,5 @@
+* class 2: https://www.youtube.com/watch?v=UZ8nqwGegz4
+
 In this class we have studied followings.
 
 1. Usage of single and double quotes in string.

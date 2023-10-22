@@ -1,3 +1,5 @@
+class 3: https://www.youtube.com/watch?v=CLM7FxMH7vw
+
 In this clase we have understand followings
 
 1. Arithmetic operators +, -, *, /, %, **, //
