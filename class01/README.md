@@ -3,11 +3,12 @@
 1.  In this classs we have we have downloaded and installed anaconda
     link: https://www.anaconda.com/download
 
+*  We have install annaconda.
 2.  We have installed python extension in VS Code.
 
-3.  We have used python prompt and typed python to run python first
+3.  Now run python prompt and typed python conda -V or python -V to check the version of conda or python
 
-4.  We have created an environment by using command in python prompt.
+4.  Now We have to create an environment by using command in python prompt.
     for creation: conda create -n python12 python==3.12 -y
     for activation: conda activate python12
 
@@ -17,10 +18,12 @@
     jupyter
     mypy
 
-6.  After creating the requirement file, we have used python prompt to install required libraries and typed:
+6.  After creating the requirement file, we have used python prompt and go to folder where file is placed now to install required libraries type:
     pip install -r requirements.txt
 
-7.  After installation, we have come to VScode and update the environment as python12 and kernel as python12 for notebook.
+* After installation re-open the vscode.
+
+7.  After opening update the environment as python12 and kernel as python12 for notebook.
 
 8.  Notebook does not verify the variable type however the .py format identify and generate error if value is not same type. further pythond does not analyze to itself the type of variable you have to mention it every time.
 
