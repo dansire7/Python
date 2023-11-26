@@ -27,7 +27,11 @@
 
 8.  Notebook does not verify the variable type however the .py format identify and generate error if value is not same type. further pythond does not analyze to itself the type of variable you have to mention it every time.
 
-10. In order to check the error in code you can type "mypy class1.py" and this will show all errors in codes.
+* install python extension pack in vs code.
+
+* install mypy extension re-open the vs code and now go to mypy extension settings and find "mypy.runUsingActiveInterpreter" and enable it.
+
+10. In order to verify mypy extension is working go to class1.py  and this will show all errors in data types.
 
 11. Data types
     str : "Ali"
